@@ -13,3 +13,8 @@ Make sure Python is installed. Then run:
 
 ```bash
 python calc.py
+
+## Author
+
+👩‍💻 Siddhi Kumari  
+🔗 GitHub: [@SiddhiKumari-ai](https://github.com/SiddhiKumari-ai)
